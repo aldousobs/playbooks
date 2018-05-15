@@ -1,4 +1,3 @@
 - host: all
   become: true
-  roles:
-  - user-create
+  roles: user-create
