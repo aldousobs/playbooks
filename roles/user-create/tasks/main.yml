@@ -7,5 +7,4 @@
     shell: /bin/bash
     group: wheel
     groups: wheel
-    home: /home/{{ sname }}
-    
+    home: /home/{{ sname }}  
