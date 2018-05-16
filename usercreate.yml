@@ -1,4 +1,5 @@
 ---
-- host: all
-  become: true
-  roles: user-create
+- name: list1
+      hosts: localhost
+      remote_user: root
+      tasks:
